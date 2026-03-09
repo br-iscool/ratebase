@@ -10,7 +10,7 @@ export default function Navbar() {
 					</Link>
 				</div>
 
-				<nav className="items-center justify-center gap-5 text-sm font-semibold uppercase tracking-wider sm:flex">
+				<nav className="items-center justify-center gap-5 text-sm uppercase tracking-wider sm:flex">
 					<Link href="/" className="rounded-sm px-1 py-0.5 underline-offset-4 hover:underline">
 						Home
 					</Link>
